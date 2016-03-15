@@ -56,7 +56,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 0
+						"urlShowMode" : 1
 					}, {
 						"itemTitle" : "Need Support?",
 						"subtitle" : "We are here for you 24x7",
