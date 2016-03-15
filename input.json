@@ -35,7 +35,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 0
+						"urlShowMode" : 1
 					}, {
 						"itemTitle" : "Org Chart",
 						"subtitle" : "See how all employees connect",
@@ -56,7 +56,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 0
+						"urlShowMode" : 1
 					}, {
 						"itemTitle" : "Need Support?",
 						"subtitle" : "We are here for you 24x7",
@@ -77,7 +77,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 0
+						"urlShowMode" : 1
 					}, {
 						"itemTitle" : "Fix it!",
 						"subtitle" : "Something broken? Notify us with a snapshot",
@@ -98,7 +98,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 0
+						"urlShowMode" : 1
 					}
 				]
 			}, {
@@ -126,7 +126,7 @@
 						"enrollDependency" : 2,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 1
+						"urlShowMode" : 0
 					}, {
 						"itemTitle" : "Skype for business",
 						"subtitle" : "Join conference meetings with ease",
@@ -147,7 +147,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 1
+						"urlShowMode" : 0
 					}, {
 						"itemTitle" : "My Documents (OneDrive)",
 						"subtitle" : "Access your documents Anytime, Anywhere",
@@ -168,7 +168,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 1
+						"urlShowMode" : 0
 					}, {
 						"itemTitle" : "My PRs",
 						"subtitle" : "Quick access to your Purchase Requests",
@@ -189,7 +189,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 0
+						"urlShowMode" : 1
 					}
 				]
 			}, {
@@ -216,7 +216,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 1
+						"urlShowMode" : 0
 					}, {
 						"itemTitle" : "Mellanox Dictionary",
 						"subtitle" : "Find simple definitions for Mellanox terms",
@@ -237,7 +237,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 0
+						"urlShowMode" : 1
 					}, {
 						"itemTitle" : "Drive to sites",
 						"subtitle" : "Driving Directions to the Mellanox site you need",
@@ -258,7 +258,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 0
+						"urlShowMode" : 1
 					}
 				]
 			}, {
@@ -285,7 +285,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 0
+						"urlShowMode" : 1
 					}, {
 						"itemTitle" : "Hilanet (Israel Only)",
 						"subtitle" : "Punch in your work hours (Israel)",
@@ -306,7 +306,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 1
+						"urlShowMode" : 0
 					}, {
 						"itemTitle" : "ADP (US Only)",
 						"subtitle" : "Punch in your work hours (US)",
@@ -327,7 +327,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 1
+						"urlShowMode" : 0
 					}
 				]
 			}, {
@@ -354,7 +354,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 0
+						"urlShowMode" : 1
 					}, {
 						"itemTitle" : "Mellanox Apps",
 						"subtitle" : "Enroll and enjoy the full mobile experience",
@@ -396,7 +396,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 0
+						"urlShowMode" : 1
 					}
 				]
 			}
