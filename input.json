@@ -1,16 +1,17 @@
 {
 	"root" : {
-		"version" : 114,
+		"version" : 116,
 		"homeTitle" : "Welcome",
 		"imagesPath" : "",
 		"popupOnDemand" : true,
-		"errorMessage" : "Sorry, this service temporary is not supported",
+		"errorMessage" : "Sorry, this service temporary is not supported.",
 		"appCatalogUrl" : "https://mobile.mellanox.com/appcatalog",
 		"enrolmentUrl" : "https://mobile.mellanox.com/enroll",
 		"usageInfoUrl" : "https://mobile.mellanox.com/ma/",
 		"airAgentUrlSchemeIos" : "airwatch://",
 		"userName" : "",
 		"updateMessage" : "New applications available",
+		"externalOpenedUrls" : ["play.google.com", "mobile.mellanox.com/mellanoxapps"],
 		"sections" : [{
 				"sectionTitle" : "General",
 				"sectionId" : "generalV1",
@@ -36,6 +37,7 @@
 						"visible" : true,
 						"overrideVisibility" : false,
 						"urlShowMode" : 1
+
 					}, {
 						"itemTitle" : "Org Chart",
 						"subtitle" : "See how all employees connect",
@@ -126,7 +128,7 @@
 						"enrollDependency" : 2,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 0
+						"urlShowMode" : 3
 					}, {
 						"itemTitle" : "Skype for business",
 						"subtitle" : "Join conference meetings with ease",
@@ -147,7 +149,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 1
+						"urlShowMode" : 3
 					}, {
 						"itemTitle" : "My Documents (OneDrive)",
 						"subtitle" : "Access your documents Anytime, Anywhere",
@@ -168,7 +170,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 0
+						"urlShowMode" : 3
 					}, {
 						"itemTitle" : "My PRs",
 						"subtitle" : "Quick access to your Purchase Requests",
@@ -216,7 +218,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 0
+						"urlShowMode" : 3
 					}, {
 						"itemTitle" : "Mellanox Dictionary",
 						"subtitle" : "Find simple definitions for Mellanox terms",
@@ -262,6 +264,60 @@
 					}
 				]
 			}, {
+				"sectionTitle" : "Engineering",
+				"sectionId" : "engineeringV1",
+				"visible" : 1,
+				"items" : [{
+						"itemTitle" : "M.A.R.S. Monitor",
+						"subtitle" : "Monitor your active M.A.R.S sessions",
+						"url" : "https://mobile.mellanox.com/mars",
+						"googleplayUrl" : "",
+						"applestoreUrl" : "",
+						"imgUrl" : "https://mobile.mellanox.com/welcome/icons/mars.png",
+						"falbackImgName" : "hilanet.png",
+						"infoTextUrl" : "",
+						"googleAppId" : "",
+						"appleAppId" : "",
+						"appleUrlscheme" : "",
+						"googleUrllaunchmode" : 3,
+						"appleUrllaunchmode" : 1,
+						"infoShowMode" : 0,
+						"infoShowOverride" : 0,
+						"itemId" : "marsV1",
+						"hideIfIsEnrolled" : 0,
+						"visible" : true,
+						"overrideVisibility" : false,
+						"urlShowMode" : 1
+					}
+				]
+			}, {
+				"sectionTitle" : "Operations",
+				"sectionId" : "operationsV1",
+				"visible" : 1,
+				"items" : [{
+						"itemTitle" : "Traceability",
+						"subtitle" : "Scan a barcode / Search by Serial Number",
+						"url" : "https://mobile.mellanox.com/mellanoxapps",
+						"googleplayUrl" : "",
+						"applestoreUrl" : "",
+						"imgUrl" : "https://mobile.mellanox.com/welcome/icons/traceability.png",
+						"falbackImgName" : "hilanet.png",
+						"infoTextUrl" : "",
+						"googleAppId" : "com.mm.babylonm",
+						"appleAppId" : "",
+						"appleUrlscheme" : "mtraceability://",
+						"googleUrllaunchmode" : 3,
+						"appleUrllaunchmode" : 3,
+						"infoShowMode" : 0,
+						"infoShowOverride" : 0,
+						"itemId" : "traceabilityV2",
+						"hideIfIsEnrolled" : 0,
+						"visible" : true,
+						"overrideVisibility" : false,
+						"urlShowMode" : 3
+					}
+				]
+			}, {
 				"sectionTitle" : "HR & Finance",
 				"sectionId" : "hrV1",
 				"visible" : 1,
@@ -285,7 +341,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 1
+						"urlShowMode" : 3
 					}, {
 						"itemTitle" : "Hilanet (Israel Only)",
 						"subtitle" : "Punch in your work hours (Israel)",
@@ -306,7 +362,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 0
+						"urlShowMode" : 3
 					}, {
 						"itemTitle" : "ADP (US Only)",
 						"subtitle" : "Punch in your work hours (US)",
@@ -327,7 +383,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 0
+						"urlShowMode" : 3
 					}
 				]
 			}, {
@@ -336,7 +392,7 @@
 				"visible" : 1,
 				"items" : [{
 						"itemTitle" : "VIP Access",
-						"subtitle" : "Approve laptop network access from you mobile",
+						"subtitle" : "Approve laptop network access from your mobile",
 						"url" : "https://mobile.mellanox.com/vipaccess",
 						"googleplayUrl" : "",
 						"applestoreUrl" : "",
@@ -354,7 +410,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 1
+						"urlShowMode" : 3
 					}, {
 						"itemTitle" : "Mellanox Apps",
 						"subtitle" : "Enroll and enjoy the full mobile experience",
@@ -375,7 +431,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 0
+						"urlShowMode" : 3
 					}, {
 						"itemTitle" : "Tell us what you think!",
 						"subtitle" : "Post a new idea or vote for existing ones",
