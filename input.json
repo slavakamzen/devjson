@@ -152,7 +152,7 @@
 						"hideIfIsEnrolled" : 0,
 						"visible" : true,
 						"overrideVisibility" : false,
-						"urlShowMode" : 3
+						"urlShowMode" : 1
 					}, {
 						"itemTitle" : "My Documents (OneDrive)",
 						"subtitle" : "Access your documents Anytime, Anywhere",
