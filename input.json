@@ -1,6 +1,6 @@
 {
 	"root" : {
-		"version" : 117,
+		"version" : 116,
 		"homeTitle" : "Welcome",
 		"popupOnDemand" : true,
 		"errorMessage" : "Sorry, this service temporary is not supported.",
@@ -13,7 +13,7 @@
 		"intuneAdminAndroid" : "com.microsoft.windowsintune.companyportal",
 		"userName" : "",
 		"updateMessage" : "New applications available",
-		"externalOpenedUrls" : ["play.google.com", "mobile.mellanox.com/mellanoxapps"],
+		"externalOpenedUrls" : ["play.google.com", "mobile.mellanox.com/mellanoxapps", "https://mobile.mellanox.com/auth/myprs.php", "https://mobile.mellanox.com/mquery/terms.php?search=ACS"],
 		"sections" : [{
 				"sectionTitle" : "General",
 				"sectionId" : "generalV1",
@@ -169,26 +169,6 @@
 						"itemTitle" : "My PRs",
 						"subtitle" : "Quick access to your Purchase Requests",
 						"url" : "https://mobile.mellanox.com/auth/myprs.php",
-						"googleplayUrl" : "",
-						"applestoreUrl" : "",
-						"imgUrl" : "https://mobile.mellanox.com/welcome/icons/myprs.png",
-						"falbackImgName" : "myprs.png",
-						"infoTextUrl" : "https://mobile.mellanox.com/welcome/info/hilanet/",
-						"googleAppId" : "",
-						"appleUrlscheme" : "",
-						"googleUrllaunchmode" : 1,
-						"appleUrllaunchmode" : 1,
-						"infoShowMode" : 0,
-						"infoShowOverride" : 0,
-						"itemId" : "myprsV1",
-						"enrollDependency": 0,
-						"visible" : true,
-						"overrideVisibility" : false,
-						"urlShowMode" : 1
-					},{
-						"itemTitle" : "Mellanox Dictionary",
-						"subtitle" : "Mellanox Dictionary",
-						"url" : "https://mobile.mellanox.com/mquery/terms.php?",
 						"googleplayUrl" : "",
 						"applestoreUrl" : "",
 						"imgUrl" : "https://mobile.mellanox.com/welcome/icons/myprs.png",
