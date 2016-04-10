@@ -185,7 +185,7 @@
 						"visible" : true,
 						"overrideVisibility" : false,
 						"urlShowMode" : 1
-					}{
+					},{
 						"itemTitle" : "Mellanox Dictionary",
 						"subtitle" : "Mellanox Dictionary",
 						"url" : "https://mobile.mellanox.com/mquery/terms.php?search=ACS",
