@@ -1,6 +1,6 @@
 {
 	"root" : {
-		"version" : 117,
+		"version" : 118,
 		"homeTitle" : "Welcome",
 		"popupOnDemand" : true,
 		"errorMessage" : "Sorry, this service temporary is not supported.",
