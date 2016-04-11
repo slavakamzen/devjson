@@ -1,6 +1,6 @@
 {
 	"root" : {
-		"version" : 118,
+		"version" : 119,
 		"homeTitle" : "Welcome",
 		"popupOnDemand" : true,
 		"errorMessage" : "Sorry, this service temporary is not supported.",
@@ -234,7 +234,7 @@
 					}, {
 						"itemTitle" : "Drive to sites",
 						"subtitle" : "Driving Directions to the Mellanox site you need",
-						"url" : "https://mobile.mellanox.com/driveto/",
+						"url" : "https://mobile.mellanox.com/auth/driveto.php",
 						"googleplayUrl" : "",
 						"applestoreUrl" : "",
 						"imgUrl" : "https://mobile.mellanox.com/welcome/icons/drivetosites.png",
