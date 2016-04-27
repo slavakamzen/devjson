@@ -1,6 +1,6 @@
 {
     "root": {
-        "version": 117,
+        "version": 120,
         "homeTitle": "Welcome",
         "popupOnDemand": true,
         "errorMessage": "Sorry, this service temporary is not supported.",
@@ -15,7 +15,8 @@
         "updateMessage": "New applications available",
         "externalOpenedUrls": [
             "play.google.com",
-            "mobile.mellanox.com/mellanoxapps"
+            "mobile.mellanox.com/mellanoxapps",
+            "login.microsoft.com"
         ],
         "sections": [
             {
@@ -26,7 +27,7 @@
                     {
                         "itemTitle": "Welcome to Mellanox",
                         "subtitle": "Online guides to get you started",
-                        "url": "https://mobile.mellanox.com/welcome/ne/",
+                        "url": "https://mobile.mellanox.com/auth/ne.php",
                         "googleplayUrl": "",
                         "applestoreUrl": "",
                         "imgUrl": "https://mobile.mellanox.com/welcome/icons/welcome.png",
