@@ -267,7 +267,7 @@
                         "enrollDependency": 0,
                         "visible": true,
                         "overrideVisibility": false,
-                        "urlShowMode": 1
+                        "urlShowMode": 3
                     }
                 ]
             },
